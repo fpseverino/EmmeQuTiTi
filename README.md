@@ -3,8 +3,10 @@
 
 This project was developed for the "Web and Real Time Communication Systems" course at the University of Naples Federico II (A.Y. 2025/2026).
 
-EmmeQuTiTi is an iOS messaging app based on the MQTT v5.0 protocol.
+EmmeQuTiTi is an iOS instant messaging app based on the MQTT v5.0 protocol.
 It uses the [MQTT NIO v3](https://github.com/WebRTC-Projects-Unina/fpseverino-mqtt-nio) library, an MQTT client based on Swift NIO.
+MQTT NIO v3 is developed as part of the same course.
+You can find more information about the library in its [README](https://github.com/WebRTC-Projects-Unina/fpseverino-mqtt-nio/blob/main/README.md).
 
 ## Overview
 
