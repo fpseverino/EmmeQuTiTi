@@ -21,3 +21,5 @@ The user starts with a random username which can be customized.
 The user can write messages to send to all subscribing clients.
 When the Send button is pressed, a new MQTT v5.0 connection is opened and the message is published to the current topic filter.
 The `"EmmeQuTiTi_username"` User Property is automatically set.
+
+<p align="center"><img width="215" height="466" alt="EmmeQuTiTi_screenshot" src="https://github.com/user-attachments/assets/5041d61e-9ee2-454c-aecf-e0ba29b40d69"></p>
